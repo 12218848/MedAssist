@@ -1,4 +1,4 @@
-# MedAssist Healthcare Platform
+# AI Health Assistant Platform
 
 A comprehensive healthcare website connecting patients with doctors, featuring AI-powered symptom checking and integrated ChatGPT assistance.
 
@@ -13,9 +13,10 @@ A comprehensive healthcare website connecting patients with doctors, featuring A
 
 1. **Clone and Install**
    ```bash
-   git clone <repository-url>
-   cd medassist-healthcare
-   npm install
+  git clone https://github.com/12218848/ai-health-assistant.git
+  cd ai-health-assistant
+  npm install
+
    ```
 
 2. **Environment Setup**
@@ -190,9 +191,6 @@ VITE_OPENAI_API_KEY=sk-your_production_openai_key
 # ... other production keys
 ```
 
-## 🏆 Awards & Recognition
-
-**3rd Place Winner** at Avinya2k24 Hackathon for innovative healthcare solutions
 
 ## 🔧 Development
 
@@ -211,7 +209,7 @@ The app includes built-in configuration validation:
 ## 📞 Support
 
 For technical support or questions:
-- **Email**: support@medassist.com
+- **Email**: support@ai-health-assistant.com
 - **Phone**: +1 (555) 123-4567
 - **Emergency**: Call 911 for medical emergencies
 
@@ -234,4 +232,4 @@ For technical support or questions:
 
 ---
 
-*MedAssist - Your Healthcare Companion* 🏥
+*AI Health Assistant - Your Healthcare Companion* 🏥
